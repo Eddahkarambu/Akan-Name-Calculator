@@ -23,13 +23,15 @@ h1{
 }
 .gendere{
   font-size: 35px;
+  color: red;
+  font-style: italic;
 }
 .femalee{
   font-size: 30px;
 
 }
 .submitee{
-  font-size: 30px;
+  font-size: 50px;
 }
 p{
   font-size: 20px;
@@ -43,5 +45,8 @@ p{
   margin: auto;
 }
 .two{
+  display: flex;
+}
+.three{
   display: flex;
 }
