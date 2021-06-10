@@ -1,9 +1,47 @@
 body{
   width: 100%;
 
+
 }
 form{
-  display: flex;
-  width: 60%;
+  display: block;
+}
+h1{
+  color: blue;
+  font-size: 50px;
+  font-style: italic;
+
+}
+.datee{
+  font-size: 30px;
+}
+.monthe{
+  font-size: 30px;
+}
+.yeare{
+  font-size: 30px;
+}
+.gendere{
+  font-size: 35px;
+}
+.femalee{
+  font-size: 30px;
+
+}
+.submitee{
+  font-size: 30px;
+}
+p{
+  font-size: 20px;
+}
+.malee{
+  font-size: 30px
+}
+.description{
+  width: 50%;
+  background-color: #03b1fc;
   margin: auto;
+}
+.two{
+  display: flex;
 }
