@@ -1,0 +1,9 @@
+body{
+  width: 100%;
+
+}
+form{
+  display: flex;
+  width: 60%;
+  margin: auto;
+}
