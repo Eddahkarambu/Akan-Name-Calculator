@@ -18,6 +18,7 @@ This website uses both scripts.js and HTML
 incase of any questions or  facing any difficulties you can  contact Eddah karambu via email.
 gikundaeddah@gmail.com
 ## Website url
+https://eddahkarambu.github.io/Akan-Name-Calculator/
 
 
 ### License
