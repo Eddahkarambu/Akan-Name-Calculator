@@ -1,5 +1,7 @@
 body{
   width: 100%;
+  background-image: url(../images/background.jpeg);
+
 
 
 }
@@ -41,7 +43,7 @@ p{
 }
 .description{
   width: 50%;
-  background-color: #03b1fc;
+  background-color: brown;
   margin: auto;
 }
 .two{
