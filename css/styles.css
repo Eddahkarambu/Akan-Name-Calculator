@@ -9,46 +9,72 @@ form{
   display: block;
 }
 h1{
-  color: blue;
+  color: red;
   font-size: 50px;
   font-style: italic;
+  margin: 20px;
+  display: flex;
+  justify-content: center;
 
 }
 .datee{
   font-size: 30px;
+  margin: 20px;
 }
 .monthe{
   font-size: 30px;
+  margin: 20px;
 }
 .yeare{
   font-size: 30px;
+  margin: 20px;
 }
 .gendere{
   font-size: 35px;
   color: red;
   font-style: italic;
+  margin: 30px;
+
 }
 .femalee{
   font-size: 30px;
+  margin: 20px;
 
 }
-.submitee{
+.submite{
   font-size: 50px;
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+  padding: 20px;
 }
 p{
   font-size: 20px;
+  margin: 20px;
 }
 .malee{
-  font-size: 30px
+  font-size: 30px;
+  margin: 20px;
+
 }
 .description{
   width: 50%;
-  background-color: brown;
+  background-color:#d4c498;
   margin: auto;
+  border: 3px solid #a17420;
 }
 .two{
   display: flex;
 }
 .three{
   display: flex;
+}
+.button2{
+  padding:20px;
+  width: 150px;
+  background-color: #153b15;
+  color: white;
+  font-size: 25px;
+  border-radius: 20px;
 }
