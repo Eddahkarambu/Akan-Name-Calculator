@@ -89,3 +89,4 @@ function determineAkanName(day,month,year,gender){
       alert("your akan name is Ama")
     }
   }
+}
