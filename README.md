@@ -7,7 +7,7 @@ User is supposed to fill in all the informating in this form so that depending o
 #### By **Eddah Karambu**
 
 ## Setup/Installation Requirements
-* Git clone this project at https://github.com/Eddahkarambu/portfolio.git
+* Git clone this project at https://github.com/Eddahkarambu/Akan-Name-Calculator.git
 * Cd into AKANNAMECALC
 * open the project with atom by typing `atom .`
 * To view it in browser click `option + w` command
@@ -18,7 +18,8 @@ This website uses both scripts.js and HTML
 incase of any questions or  facing any difficulties you can  contact Eddah karambu via email.
 gikundaeddah@gmail.com
 ## Website url
-https://eddahkarambu.github.io/portfolio/
+
+
 ### License
 MIT License
 
@@ -36,7 +37,7 @@ copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+FITNESS FOR A PARTICULAR PURPOSE AND NON INFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
